@@ -1,8 +1,8 @@
 # transpile-operation-check
 tsトランスパイル動作確認用
 
-※自分へ<br>
-zennの記事ネタなので削除せずに取っておくこと<br>
+※自分へ.\
+zennの記事ネタなので削除せずに取っておくこと.\
 （リンク貼っとく）
 
 # Getting Started with Create React App
